@@ -35,7 +35,7 @@ local spr = app.activeSprite
 local dlg = Dialog()
 
 -- Main inputs
-dlg:entry{ id="undo_count", label="Undo count", undo_count="10" }
+dlg:entry{ id="undo_count", label="Undo count", text="10" }
 
 -- Buttons
 dlg:button{ id="ok", text="Export" }
