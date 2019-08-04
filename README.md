@@ -1,4 +1,4 @@
-# asepite-scripts
+# aseprite-scripts
 Misc LUA scripts for Aseprite
 
 ## Install
